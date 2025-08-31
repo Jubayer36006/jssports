@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Full Screen Emulator Web App</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden; /* স্ক্রলবার লুকানোর জন্য */
+        }
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none; /* কোনো বর্ডার না রাখার জন্য */
+            display: block; /* অতিরিক্ত মার্জিন বা প্যাডিং এড়ানোর জন্য */
+        }
+    </style>
+</head>
+<body>
+    <iframe src="https://appetize.io/app/b_3iv45gk2bc45aamvpsxgclre2i"></iframe>
+</body>
+</html>
